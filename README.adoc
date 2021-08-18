@@ -2,4 +2,4 @@ Reset USB
 ===================
 :toc:
 
-`reset_usb` is a project taken from stackoverflow and modified a bit (hopefully this can be used and not the stackoverflow one
+`reset_usb` is a project taken from stackoverflow and modified a bit (hopefully this can be used and not the stackoverflow one)
